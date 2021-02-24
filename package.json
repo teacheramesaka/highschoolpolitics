@@ -19,5 +19,9 @@
   "homepage": "https://github.com/teacheramesaka/highschoolpolitics#readme",
   "devDependencies": {
     "honkit": "^3.6.17"
+  },
+  "dependencies": {
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-page-treeview": "^3.0.3"
   }
 }

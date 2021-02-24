@@ -1,0 +1,3 @@
+{
+    "plugins": ["gitbook-plugin-page-treeview", "gitbook-plugin-collapsible-chapters"]
+}

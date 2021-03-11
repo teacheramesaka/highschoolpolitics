@@ -1,6 +1,8 @@
 # Summary
 
-* [表紙](README.md)
+* [雨坂先生の復習用資料　表紙](https://teacheramesaka.github.io/studyfiles/)
+* [高校公民政治分野　表紙](README.md)
+* [授業動画再生リスト](https://www.youtube.com/playlist?list=PLOdKiaJAYzERndOIxrbdbhSC4GhkUZW_O)
 
 -----
 * [政治分野第一章　現代国家と政治制度、人権](01_00.md)

@@ -228,7 +228,7 @@
 |立法府1／国会の概要と定義|[YouTube](https://youtu.be/QCskuBE35Ow)|
 |立法府2／会期と解散|[YouTube](https://youtu.be/NcQy7Uj3r-U)|
 |立法府3／委員会1|[YouTube](https://youtu.be/hfB8hEFqIZM)|
-|https://youtu.be/cMF0LItwnEI|[YouTube](立法府4／委員会2)|
+|立法府4／委員会2|[YouTube](https://youtu.be/cMF0LItwnEI)|
 |立法府5／国会の機能1(議決)|[YouTube](https://youtu.be/ESG_pv0Feu0)|
 |立法府6／国会の機能2|[YouTube](https://youtu.be/LdYZlscjlFI)|
 |立法府7／国会の機能3|[YouTube](https://youtu.be/9LWkPUCauW4)|

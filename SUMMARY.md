@@ -1,7 +1,7 @@
 # Summary
 
-* [雨坂先生の復習用資料　表紙](https://teacheramesaka.github.io/studyfiles/)
-* [高校公民政治分野　表紙](README.md)
+* [政治分野トップページへ](https://teacheramesaka.github.io/studyfiles/)
+* [ウェブサイト全体のトップページへ](README.md)
 * [授業動画一覧](LIST.md)
 * [YouTube再生リスト](https://www.youtube.com/playlist?list=PLOdKiaJAYzERndOIxrbdbhSC4GhkUZW_O)
 

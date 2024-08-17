@@ -10,6 +10,7 @@ $j(document).ready(function() {
         content.hide(); // 初期状態で非表示
         
         button.on('click', function() {
+            console.log('Button clicked!'); // クリックされたことを確認
             button.toggleClass('active');
             content.slideToggle();
         });

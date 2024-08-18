@@ -1,6 +1,6 @@
 # Summary
 
-* [政治分野トップページへ](README.md)
+* [政治分野トップページ](README.md)
 * [ウェブサイト全体のトップページへ](https://teacheramesaka.github.io/studyfiles/)
 * [公共・政治経済・倫理の問題集へ](https://teacheramesaka.github.io/hsworkbookcivics/)
 -----

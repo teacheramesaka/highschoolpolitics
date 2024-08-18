@@ -1,5 +1,4 @@
 {
-    "title": "雨坂先生の授業用資料　公共、政治経済：政治分野",
     "plugins": ["gitbook-plugin-page-treeview", "gitbook-plugin-collapsible-chapters"],
     "pluginsConfig": {
         "page-treeview": {

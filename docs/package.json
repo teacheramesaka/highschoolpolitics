@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-insert-logo": "^0.1.5",
     "gitbook-plugin-page-treeview": "^3.0.3"
   }
 }

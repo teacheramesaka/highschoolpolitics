@@ -1,5 +1,5 @@
 {
-    "plugins": ["gitbook-plugin-page-treeview", "gitbook-plugin-collapsible-chapters", "gitbook-plugin-insert-logo"],
+    "plugins": ["gitbook-plugin-page-treeview", "gitbook-plugin-collapsible-chapters", "gitbook-plugin-folding-content", "gitbook-plugin-insert-logo"],
     "pluginsConfig": {
         "page-treeview": {
             "copyright": "",

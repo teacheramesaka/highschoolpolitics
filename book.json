@@ -9,6 +9,9 @@
         "insert-logo": {
             "url": "./logo.png",
             "style": "background: none;"
+        },
+        "styles": {
+            "website": "style.css"
         }
     }
 }

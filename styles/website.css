@@ -1,0 +1,93 @@
+/* 折り畳みボタンのcss　の残骸　javascriptを使おうとしてた？ */
+.collapsible-content {
+    display: none; /* デフォルトで非表示 */
+    padding: 0 18px;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+  
+  .collapsible-button {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  
+  .collapsible-button:after {
+    content: '\002B'; /* "+" */
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .collapsible-button.active:after {
+    content: "\2212"; /* "-" */
+  }
+  
+
+/* 折り畳みボタンのcss */
+.chat-fold {
+    margin: 1em 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #fafafa;
+}
+
+.chat-fold summary {
+    cursor: pointer;
+    padding: 0.8em 1em;
+    font-weight: bold;
+    list-style: none;
+}
+
+.chat-fold summary::-webkit-details-marker {
+    display: none;
+}
+
+.chat-fold summary::after {
+    content: "＋";
+    float: right;
+    font-weight: bold;
+}
+
+.chat-fold[open] summary::after {
+    content: "－";
+}
+
+.chat-fold-content {
+    padding: 0 1em 1em 1em;
+    line-height: 1.8;
+}
+
+.chat-fold table th,
+.chat-fold table td {
+    background: #fff;
+}
+
+
+  /* 授業内容まとめのボックス */
+.summary-box {
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 1em 1.2em;
+    margin: 1.2em 0;
+    border-radius: 6px;
+    line-height: 1.9;
+}
+
+.summary-title {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0.8em;
+}
+
+.summary-box table th,
+.summary-box table td {
+    background: #fff;
+}
